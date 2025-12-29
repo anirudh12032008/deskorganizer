@@ -3,6 +3,8 @@
 
 ### This is a modular, 3D printed desk organization with magnet based assembly, functional storage components, and flexible layouts for customizable workspace, optimized for me but can be easily modified as per need
 
+## Journal (https://github.com/anirudh12032008/deskorganizer/blob/main/modular-3d-printed-desk-organization-kit-magnetic-journal.md)
+
 # Final listings
 
 Now everything is completed, so below is the listing of each item along with its weight and specifications.
