@@ -1,5 +1,8 @@
-Name,Quantity,Unit Cost (INR) (without tax),Cost (INR) (without tax),Link
-10mmx2mm Diameter Neodymium Disc Magnets N35,35,8.8,308,https://onlyscrews.in/products/10mm-diameter-neodymium-disc-magnets-n35?variant=51064765481273
-10mmx1.5mm Diameter Neodymium Disc Magnets N36,5,6.4,32,https://onlyscrews.in/products/10mm-diameter-neodymium-disc-magnets-n35?variant=51064765448505
-5mmx1.5mm Diameter Neodymium Disc Magnets N35,5,4.4,22,https://onlyscrews.in/products/5mm-diameter-neodymium-disc-magnets-n35?variant=51060958757177
-PLA+ Filament,3,625,1875,https://india.numakers.com/products/pla-filament?variant=44123925676201
+Name,Quantity,Unit Cost (INR) (without tax),Cost (INR) (without tax),USD ( without tax ),Link
+10mmx2mm Diameter Neodymium Disc Magnets N35,25,8.8,220,2.5,https://onlyscrews.in/products/10mm-diameter-neodymium-disc-magnets-n35?variant=51064765481273
+10mmx1.5mm Diameter Neodymium Disc Magnets N36,5,6.4,32,0.3636363636,https://onlyscrews.in/products/10mm-diameter-neodymium-disc-magnets-n35?variant=51064765448505
+5mmx1.5mm Diameter Neodymium Disc Magnets N35,5,4.4,22,0.25,https://onlyscrews.in/products/5mm-diameter-neodymium-disc-magnets-n35?variant=51060958757177
+10mmx3mm Diameter Neodymium Disc Magnets N36,10,15,150,1.704545455,https://onlyscrews.in/products/10mm-diameter-neodymium-disc-magnets-n35?variant=51064765514041
+PLA+ Filament,3,625,0,0,https://india.numakers.com/products/pla-filament?variant=44123925676201
+Shipping Charges and Taxes,,,150,1.704545455,
+Total,,,574,6.522727273,
